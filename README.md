@@ -4,7 +4,7 @@ Note : The code is in java so jdk will be required on your machine;
 Steps to Execute Code:
 1. After downloading folder just open in any idle and run the j.java file.
 
-Overview 
+Overview:
 This program uses functions to do some moduler task and then produce a result.
 It is similar to word break problem, which we can do by using variuous approaches by backtracking, DP, Trie data structure;
 It is done by using Trie data structure for finding the compounded word quickly.
